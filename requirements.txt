@@ -1,1 +1,5 @@
-fastapi[all]
+fastapi
+uvicorn[standard]
+pydantic
+qiskit>=1.3
+qiskit-aer>=0.17.1
